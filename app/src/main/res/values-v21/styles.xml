@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="beatBoxButton" parent="android:style/Widget.Material.Button">
-        <item name="android:background">@color/dark_blue</item>
+        <item name="android:background">@drawable/button_beat_box_round</item>
     </style>
 
 </resources>
